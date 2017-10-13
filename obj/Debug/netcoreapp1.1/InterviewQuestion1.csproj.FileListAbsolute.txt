@@ -1,0 +1,8 @@
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/Debug/netcoreapp1.1/InterviewQuestion1.deps.json
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/Debug/netcoreapp1.1/InterviewQuestion1.runtimeconfig.json
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/Debug/netcoreapp1.1/InterviewQuestion1.runtimeconfig.dev.json
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/Debug/netcoreapp1.1/InterviewQuestion1.dll
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/Debug/netcoreapp1.1/InterviewQuestion1.pdb
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.AssemblyInfo.cs
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.dll
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.pdb
