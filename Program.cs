@@ -7,7 +7,10 @@ namespace InterviewQuestion1
     {
         static void Main(string[] args)
         {
-            
+            //Write a function that accepts a List of Strings 'StrList' and an integer 'testInt' as arguments.
+            //Only for strings with a length less than 'testInt', print the list
+            //of strings as one continuous string with a space as separator.
+
             List<string> StringList = new List<string>();
             Survey(StringList, 8);
           
@@ -25,6 +28,9 @@ namespace InterviewQuestion1
                 }
                 
             }
+
+            //Print each digit of a large number as a list:
+
             var myNumber= 12345;
             string numberToString = myNumber.ToString();
             var charArray = numberToString.ToCharArray();
