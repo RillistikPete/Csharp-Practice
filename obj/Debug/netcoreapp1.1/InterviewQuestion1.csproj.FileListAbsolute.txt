@@ -6,3 +6,5 @@
 /Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.AssemblyInfo.cs
 /Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.dll
 /Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.pdb
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.csproj.CoreCompileInputs.cache
+/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/Debug/netcoreapp1.1/InterviewQuestion1.AssemblyInfoInputs.cache

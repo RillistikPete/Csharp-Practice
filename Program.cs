@@ -8,8 +8,7 @@ namespace InterviewQuestion1
         static void Main(string[] args)
         {
             //Write a function that accepts a List of Strings 'StrList' and an integer 'testInt' as arguments.
-            //Only for strings with a length less than 'testInt', print the list
-            //of strings as one continuous string with a space as separator.
+            //Return all strings with a length less than 'testInt' as one continuous string, with a space as a separator.
 
             List<string> StringList = new List<string>();
             Survey(StringList, 8);
@@ -18,13 +17,14 @@ namespace InterviewQuestion1
             {
                 testInt = 8;
                 string[] StrList = {"Hello", "Goodbye", "MoreThanEight"};
-
+                string ns = "Solution: ";
                 foreach (var j in StrList)
                 {
                     if(j.Length < testInt)
                     {
-                        Console.WriteLine(string.Join(" ", j));
+                        ns+=j;
                     }
+                        Console.WriteLine("{0}", ns);
                 }
                 
             }
@@ -33,11 +33,12 @@ namespace InterviewQuestion1
 
             var myNumber= 12345;
             string numberToString = myNumber.ToString();
-            var charArray = numberToString.ToCharArray();
-            for ( var g = 0; g < charArray.Length; g++)
+            var numberList = "";
+            for ( var g = 0; g < numberToString.Length; g++)
             {
-                Console.WriteLine(charArray[g]);
+                numberList += g;
             } 
+            Console.WriteLine(numberList);
         }
     }
 }

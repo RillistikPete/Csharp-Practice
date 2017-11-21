@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -7045,18 +7045,28 @@
       "projectUniqueName": "/Users/peterforrest/workspace/Csharp/InterviewQuestion1/InterviewQuestion1.csproj",
       "projectName": "InterviewQuestion1",
       "projectPath": "/Users/peterforrest/workspace/Csharp/InterviewQuestion1/InterviewQuestion1.csproj",
+      "packagesPath": "/Users/peterforrest/.nuget/packages/",
       "outputPath": "/Users/peterforrest/workspace/Csharp/InterviewQuestion1/obj/",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/peterforrest/.nuget/NuGet/NuGet.Config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
-      "files": {
-        "lib/netcoreapp1.1/InterviewQuestion1.dll": "/Users/peterforrest/workspace/Csharp/InterviewQuestion1/bin/placeholder/netcoreapp1.1/InterviewQuestion1.dll"
+      "sources": {
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -7064,7 +7074,8 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.2"
+            "version": "1.1.2",
+            "autoReferenced": true
           }
         }
       }
